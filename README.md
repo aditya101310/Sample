@@ -1,3 +1,3 @@
 # Sample
 
-A Sample Repository
+A Sample Repository for Hacktoberfest
