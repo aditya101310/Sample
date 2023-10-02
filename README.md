@@ -1,3 +1,3 @@
 # Sample
 
-A Sample
+A Sample Repository
