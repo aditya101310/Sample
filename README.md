@@ -1,3 +1,3 @@
 # Sample
 
-A Sample Repository for Hacktoberfest 2023
+A Sample Repository for Hacktoberfest 2024
